@@ -1,0 +1,12 @@
+:root {
+  --primary-title-color: #212121;
+  --primary-text-color: #757575;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
+}
+ul {
+  list-style: none;
+}
